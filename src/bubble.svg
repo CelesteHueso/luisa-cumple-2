@@ -1,0 +1,32 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 18.68 18.68">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="2.74" y1="15.94" x2="15.94" y2="2.74" gradientTransform="translate(17.09 -1.35) rotate(80.95)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="9.92" y1="9.62" x2="15.48" y2="4.06" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.13" stop-color="#fff" stop-opacity="0.02"/>
+      <stop offset="0.25" stop-color="#fff" stop-opacity="0.06"/>
+      <stop offset="0.38" stop-color="#fff" stop-opacity="0.14"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0.25"/>
+      <stop offset="0.63" stop-color="#fff" stop-opacity="0.39"/>
+      <stop offset="0.75" stop-color="#fff" stop-opacity="0.57"/>
+      <stop offset="0.88" stop-color="#fff" stop-opacity="0.77"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <circle class="cls-1" cx="9.34" cy="9.34" r="9.34" transform="translate(-1.35 17.09) rotate(-80.95)"/>
+    <path class="cls-2" d="M16.63,6.84A3.93,3.93,0,1,1,12.7,2.91,3.93,3.93,0,0,1,16.63,6.84Z"/>
+  </g>
+</svg>
